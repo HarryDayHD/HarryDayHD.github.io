@@ -1,0 +1,6 @@
+baseURL = "https://www.harryday.net"
+languageCode = "en-gb"
+title = "Harry Day"
+theme = "one"
+publishDir = "docs"
+googleAnalytics = "UA-119127686-1"
