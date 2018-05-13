@@ -4,3 +4,6 @@ title = "Harry Day"
 theme = "one"
 publishDir = "docs"
 googleAnalytics = "UA-119127686-1"
+
+[params]
+    navigation = ["about.md","contact.md"]
