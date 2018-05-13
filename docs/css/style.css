@@ -169,6 +169,21 @@ table td {
 	hyphens: none;
 }
 
+/* Prevents code snippets in tables being center aligned */
+.highlight table td {
+	padding: 0.4em;
+	text-align: left;
+	-moz-hyphens: none;
+	-webkit-hyphens: none;
+	-o-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+.highlight {
+	font-size: 80%;
+}
+
 table th {
 	font-weight: normal;
 	text-transform: uppercase;
@@ -213,17 +228,6 @@ a:hover {
 
 p a {
 	color: #0366d6;
-}
-
-code {
-	font-size: 85%;
-	margin-bottom: 20px;
-	background-color: #F4F4F5;
-	-moz-hyphens: none;
-	-webkit-hyphens: none;
-	-o-hyphens: none;
-	-ms-hyphens: none;
-	hyphens: none;
 }
 
 figcaption {
