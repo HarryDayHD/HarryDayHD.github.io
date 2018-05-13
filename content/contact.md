@@ -6,4 +6,4 @@ draft: false
 
 Contact me at:
 
-> Harry \<dot\> Day \<dot\> HD \<at\> Gmail \<dot\> com
+> Harry\<dot\>Day\<dot\>HD\<at\>Gmail\<dot\>com
