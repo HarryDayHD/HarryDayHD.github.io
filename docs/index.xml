@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harry Day</title>
+    <link>https://www.harryday.net/</link>
+    <description>Recent content on Harry Day</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 13 May 2018 19:33:42 +0100</lastBuildDate>
+    
+        <atom:link href="https://www.harryday.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.harryday.net/contact/</link>
+      <pubDate>Sun, 13 May 2018 19:33:42 +0100</pubDate>
+      
+      <guid>https://www.harryday.net/contact/</guid>
+      <description>&lt;p&gt;Contact me at:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Harry&amp;lt;dot&amp;gt;Day&amp;lt;dot&amp;gt;HD&amp;lt;at&amp;gt;Gmail&amp;lt;dot&amp;gt;com&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.harryday.net/about/</link>
+      <pubDate>Sun, 13 May 2018 19:06:22 +0100</pubDate>
+      
+      <guid>https://www.harryday.net/about/</guid>
+      <description>&lt;p&gt;Computer Science student at the University of Southampton.&lt;/p&gt;
+
+&lt;p&gt;Interested in large scale systems, distributed applications, software architecture, and general backend development.&lt;/p&gt;
+
+&lt;p&gt;Previous experience:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2015 to 2018 - Vice President - Southampton University Kendo Society&lt;/li&gt;
+&lt;li&gt;2017 - Technology Analyst Intern - JPMorgan Chase &amp;amp; Co.&lt;/li&gt;
+&lt;li&gt;2016 - Summer Engineering Intern - BAE Systems&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Website made using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, a static site generator built in Go. Hosted on &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt;. Theme is a minor modification of &lt;a href=&#34;https://github.com/resugary/hugo-theme-one&#34;&gt;hugo-theme-one&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
