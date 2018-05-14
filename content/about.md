@@ -14,4 +14,6 @@ Previous experience:
 * 2017 - Technology Analyst Intern - JPMorgan Chase & Co.
 * 2016 - Summer Engineering Intern - BAE Systems
 
-Website made using [Hugo](https://gohugo.io/), a static site generator built in Go. Hosted on [Github Pages](https://pages.github.com/). Theme is a minor modification of [hugo-theme-one](https://github.com/resugary/hugo-theme-one).
+Website made using [Hugo](https://gohugo.io/), a static site generator built in Go. 
+Hosted on [Github Pages](https://pages.github.com/). 
+Theme is my minor modification of [hugo-theme-one](https://github.com/HarryDayHD/hugo-theme-one).
