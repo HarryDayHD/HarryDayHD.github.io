@@ -5,5 +5,8 @@ theme = "one"
 publishDir = "docs"
 googleAnalytics = "UA-119127686-1"
 
+[permalinks]
+  posts = "/:year/:month/:title/"
+
 [params]
     navigation = ["about.md","contact.md"]
