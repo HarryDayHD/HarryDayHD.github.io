@@ -43,7 +43,9 @@
 &lt;li&gt;2016 - Summer Engineering Intern - BAE Systems&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Website made using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, a static site generator built in Go. Hosted on &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt;. Theme is a minor modification of &lt;a href=&#34;https://github.com/resugary/hugo-theme-one&#34;&gt;hugo-theme-one&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Website made using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, a static site generator built in Go.
+Hosted on &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt;.
+Theme is my minor modification of &lt;a href=&#34;https://github.com/HarryDayHD/hugo-theme-one&#34;&gt;hugo-theme-one&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
