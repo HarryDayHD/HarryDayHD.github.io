@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harry Day</title>
+    <link>https://www.harryday.net/</link>
+    <description>Recent content on Harry Day</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Copyright &amp;copy; 2018 - Harry Day</copyright>
+    <lastBuildDate>Sun, 13 May 2018 19:06:22 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.harryday.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://www.harryday.net/about/</link>
+      <pubDate>Sun, 13 May 2018 19:06:22 +0100</pubDate>
+      
+      <guid>https://www.harryday.net/about/</guid>
+      <description>Computer Science student at the University of Southampton.
+Interested in large scale systems, distributed applications, software architecture, and general backend development.</description>
+    </item>
+    
+  </channel>
+</rss>
