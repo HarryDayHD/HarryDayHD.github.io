@@ -6,8 +6,9 @@
     <description>Recent content in Categories on Harry Day</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <copyright>Copyright &amp;copy; 2018 - Harry Day</copyright>
     
-        <atom:link href="https://www.harryday.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.harryday.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

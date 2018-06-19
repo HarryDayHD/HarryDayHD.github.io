@@ -1,12 +1,34 @@
 baseURL = "https://www.harryday.net/"
 languageCode = "en-gb"
 title = "Harry Day"
-theme = "one"
+theme = "kiera"
 publishDir = "docs"
+copyright = "Copyright &copy; 2018 - Harry Day"
+# Update to go docs short code?
+
 googleAnalytics = "UA-119127686-1"
 
+paginate = 3
+
+summaryLength = 20
+enableEmoji = true
+pygmentsCodeFences = true
+
 [permalinks]
-  posts = "/:year/:month/:title/"
+  posts = "/:year/:month/:day/:title/"
+
+[author]
+    name = "Harry Day"       #Author name
+    github = "HarryDayHD"     #Github username
+#    gitlab = ""     #Gitlab username
+#    linkedin = "harry-day-hd"   #LinkedIn username
+#    facebook = ""   #Facebook username
+#    twitter = ""    #Twitter username
+#    instagram = ""  #Instagram username
 
 [params]
-    navigation = ["about.md","contact.md"]
+    tagline = "Interested in large scale systems, distributed applications, software architecture, and general backend development."
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
